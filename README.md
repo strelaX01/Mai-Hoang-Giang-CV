@@ -31,6 +31,8 @@ git clone https://github.com/strelaX01/Mai-Hoang-Giang-CV.git
 cd Mai-Hoang-Giang-CV
 3️⃣ Install dependencies:
 npm install
+4️⃣ Start the development server:
+npm run dev
 Then open your browser and go to:
 👉 http://localhost:5173
 
