@@ -10,9 +10,9 @@ function App() {
 
   return (
     <>
-   <Cv/>
-   <PopupCertificate/>
-   </>
+      <Cv />
+      <PopupCertificate />
+    </>
   )
 }
 
