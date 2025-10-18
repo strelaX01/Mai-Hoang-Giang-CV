@@ -16,7 +16,7 @@ const profileData = {
     {
       role: "Intern",
       company: "VI Technology Co., Ltd.",
-      period: "07/2024 - 11/2024",
+      period: "08/2024 - 11/2024",
       bullets: [
         "Developed and optimized a Shopify application, adding custom options and improving performance and flexibility for clients.",
         "Designed intuitive user interfaces using Figma, and implemented frontends with ReactJS, Liquid, HTML, CSS, and JavaScript.",

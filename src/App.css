@@ -17,6 +17,15 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+#tsparticles {
+  position: fixed; /* hoặc absolute */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0; /* 👈 Đặt thấp hơn nội dung nhưng không âm */
+}
+
 
 @keyframes logo-spin {
   from {
